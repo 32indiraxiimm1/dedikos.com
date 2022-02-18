@@ -1,0 +1,90 @@
+body{
+color : white;
+font-family: "avenir next";
+}
+ .header {
+background-color: white;
+color: #fff;
+height: 80px;
+}
+   
+.header-logo1 img {
+float:left;
+width:90px;
+height:80px; 
+}
+
+.header-list li {
+float: left;
+padding: 20px 20px;
+border-radius: 50px;
+margin-left: 30px ;
+margin-top:10px;
+background-color: #A0522D;
+list-style: none;
+}
+ .header-list li:hover   {
+background-color:#CD853F; 
+font-size:20px;
+color:black;
+padding: 20px 20px;
+margin-left: 20px ;
+margin-top:10px;
+
+ }  
+
+a{
+color: inherit;
+text-decoration: o;
+	}	
+.copy-container {
+text-align: center;
+}
+.copy-container {
+padding-bottom : 5px ;
+background-color: white ;
+}
+.copy-container img{
+width: 800px;
+height: 250px;
+}
+.copy-container span{
+color: red ;
+}
+
+.contents-item p {
+font-size: 12px;
+text-align: center;
+}
+
+.contact-item {
+float: left ;
+margin-right : 50px ;
+}
+
+.contact-item img  {
+ border : 1px solid black ;
+ width: 200px;
+height: 200px;
+}
+.contact-item h3{
+color: black;
+}
+
+.copy-container p{
+font-size: 14px;
+text-align:center;
+margin-top: 30px;
+border:2px solid black;
+border-radius:10px;
+background-color: #FFDEAD;
+color: black;
+}
+.copy-container p:hover {
+background-color: #DEB887; 
+color: #FAEBD7;
+}
+.info{
+	background-color: white;
+	color: black;
+}
